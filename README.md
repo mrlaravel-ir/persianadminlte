@@ -1,7 +1,12 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
+<img src="https://mr-laravel.ir/wp-content/uploads/2021/08/mrlaravel-600x600.png">
+<h3 dir="rtl">راه نصب</h3>
+<p dir="rtl">
+    برای نصب روت ها را کپی و منتقل کنید
+    فولدر ریسورس فایل های مورد نظر کپی کنید و به بخش کنترلر ها برید پوشه ادمین کپی کنید و بعد از اون در نهایت میدلویر ادمین هم کپی کنید و داخل پروژه خودتون بذارید و در نهایت هم با لاراول میکس اجرا کنید
+</p>
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+
+[comment]: <> (<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>)
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
