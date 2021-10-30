@@ -25,7 +25,7 @@
                     <!-- Add icons to the links using the .nav-icon class
                          with font-awesome or any other icon font library -->
                     <li class="nav-item">
-                        <a href="{{ route('admin.') }}" class="nav-link {{ isActive('admin.') }}">
+                        <a href="{{ route('admin.dashboard') }}" class="nav-link {{ isActive('admin.dashboard') }}">
                             <i class="nav-icon fa fa-dashboard"></i>
                             <p>پنل مدیریت</p>
                         </a>
