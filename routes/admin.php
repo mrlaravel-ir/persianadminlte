@@ -2,7 +2,6 @@
 
 Route::prefix('/admin')
     ->name('admin.')
-    ->middleware(['isAdmin'])
     ->group(function (){
 
         Route::get('/' , function() {
